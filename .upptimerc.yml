@@ -14,8 +14,14 @@ sites:
   - name: Zosia API
     url: https://api.zosia.io/api
 
-# No public status website - private monitoring only
-# Results tracked in GitHub Issues
+status-website:
+  cname: health.zosia.io
+  name: Zosia Status
+  introTitle: "System Status"
+  introMessage: Monitoring Zosia public services
+  navbar:
+    - title: Status
+      href: /
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
