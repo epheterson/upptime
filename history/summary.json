@@ -58,19 +58,19 @@
     "url": "https://at.zosia.io",
     "icon": "https://icons.duckduckgo.com/ip3/at.zosia.io.ico",
     "slug": "zosia-link-shortener",
-    "status": "down",
-    "uptime": "13.51%",
-    "uptimeDay": "13.51%",
-    "uptimeWeek": "13.51%",
-    "uptimeMonth": "13.51%",
-    "uptimeYear": "13.51%",
-    "time": 553,
-    "timeDay": 553,
-    "timeWeek": 553,
-    "timeMonth": 553,
-    "timeYear": 553,
+    "status": "up",
+    "uptime": "0.87%",
+    "uptimeDay": "0.87%",
+    "uptimeWeek": "0.87%",
+    "uptimeMonth": "0.87%",
+    "uptimeYear": "0.87%",
+    "time": 426,
+    "timeDay": 426,
+    "timeWeek": 426,
+    "timeMonth": 426,
+    "timeYear": 426,
     "dailyMinutesDown": {
-      "2026-01-06": 0
+      "2026-01-06": 9
     }
   },
   {
