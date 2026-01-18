@@ -1,7 +1,7 @@
 url: https://fact-check.info
-status: up
-code: 200
-responseTime: 438
-lastUpdated: 2026-01-18T23:25:51.391Z
+status: down
+code: 429
+responseTime: 406
+lastUpdated: 2026-01-18T23:33:23.658Z
 startTime: 2026-01-06T08:37:57.228Z
 generator: Upptime <https://github.com/upptime/upptime>
