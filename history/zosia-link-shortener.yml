@@ -1,7 +1,7 @@
 url: https://at.zosia.io
-status: up
-code: 200
-responseTime: 291
-lastUpdated: 2026-02-17T23:36:04.375Z
+status: down
+code: 502
+responseTime: 253
+lastUpdated: 2026-02-18T15:02:23.755Z
 startTime: 2026-01-06T08:37:59.475Z
 generator: Upptime <https://github.com/upptime/upptime>
