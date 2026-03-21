@@ -1,7 +1,7 @@
 url: https://api.zosia.io/api
-status: down
-code: 502
-responseTime: 304
-lastUpdated: 2026-03-21T23:31:59.543Z
+status: up
+code: 200
+responseTime: 320
+lastUpdated: 2026-03-21T23:44:09.883Z
 startTime: 2026-01-06T08:38:02.289Z
 generator: Upptime <https://github.com/upptime/upptime>
